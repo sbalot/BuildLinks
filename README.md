@@ -29,14 +29,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/sbalot/EpicSHACLVisualizer">
+  <a href="https://github.com/sbalot/BuildLinks">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">BuildLinks Ontology</h3>
 
   <p align="center">
-    project_description
+    Describing link relationships and metadata
     <br />
     <a href="https://github.com/sbalot/BuildLinks"><strong>Explore the docs »</strong></a>
     <br />
